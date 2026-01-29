@@ -20,3 +20,5 @@ Bu proje, S3'e yüklenen metin dosyalarını otomatik olarak algılayan, Amazon 
 1. `input/` klasörüne bir `.txt` dosyası yükleyin.
 2. Lambda fonksiyonu otomatik olarak tetiklenecektir.
 3. Üretilen `.mp3` dosyasını `output/` klasöründen alın.
+
+Ses Dosyası ayriyetten mp3 şeklinde eklenmiştir.
