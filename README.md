@@ -22,3 +22,9 @@ Bu proje, S3'e yüklenen metin dosyalarını otomatik olarak algılayan, Amazon 
 3. Üretilen `.mp3` dosyasını `output/` klasöründen alın.
 
 Ses Dosyası ayriyetten mp3 şeklinde eklenmiştir.
+![](explanation_1.png)
+![](explanation_2.png)
+![](explanation_3.png)
+![](explanation_4.png)
+![](explanation_5.png)
+![](explanation_6.png)
